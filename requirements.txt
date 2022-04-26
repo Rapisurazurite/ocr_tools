@@ -1,0 +1,5 @@
+requests
+pywin32
+keyboard
+PyExecJs
+Pillow

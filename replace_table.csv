@@ -1,0 +1,31 @@
+'\(', '\left(', True
+'\)', '\right)', True
+'\[', '\left[', True
+'\]', '\right]', True
+'\()', '\left( \right)', True
+'\[]', '\left[ \right]', True
+'\||', '\left| \right|', True
+'\{}', '\left\{ \right\}', True
+'\{.', '\left\{ \right.', True
+'_', '_{}', True
+'^', '^{}', True
+'\frac', '\frac{}{}', True
+'\cfrac', '\cfrac{}{}', True
+'\cases', '\begin{cases} \end{cases}', True
+'\carray', '\begin{array}{c} \end{array}', True
+'\larray', '\begin{array}{l} \end{array}', True
+'\vmatrix', '\begin{vmatrix} \end{vmatrix}', True
+'\sum', '\sum_{}^{}', True
+'\prod', '\prod_{}^{}', True
+'\bar', '\bar{}', True
+'\sqrt', '\sqrt{}', True
+'\d', '\mathrm{d}', True
+'\w', '\omega', True
+'\degree', '^\circ', True
+'\x', '\times', True
+'\t', '\text{}', True
+'\-', '\overline{}', True
+'\u', '\cup', True
+'\a', '\cap', True
+'\bb', '\mathbb{}', True
+'\int', '\int_{}^{}', True
